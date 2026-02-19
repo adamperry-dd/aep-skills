@@ -10,11 +10,28 @@ Add this repository to your Claude Code environment:
 npx skills add https://github.com/adamperry-dd/aep-skills --skill <skill-name>
 ```
 
-## Available Skills
+## Available Skills (77+)
 
-- **ddbranding** - DoorDash brand guidelines and styling
-- **obsidian** - Obsidian vault integration and workflows
-- **aep-brain-skills** - Personal knowledge management skills
+### Planning & Orchestration (29 skills)
+Planning strategies, agile sprints, technical roadmaps, subagent orchestration
+
+### Development (27 skills)
+Code quality, debugging, database optimization, Obsidian integration, Git workflows, voice agents
+
+### Data & Analytics (24 skills)
+Data visualization, statistical analysis, machine learning evaluation harnesses, LLM benchmarking
+
+### Business (22 skills)
+Strategy, financial analysis, market research, customer support, CSM, customer success
+
+### Productivity (25 skills)
+Document creation, user guides, technical writing, presentations, budget planning
+
+### Design (7 skills)
+UI/UX design, Mermaid diagrams, Excalidraw, scientific schematics, web scraping
+
+### Core (10 skills)
+Knowledge management, context management, research methodologies, user preferences
 
 ## Using in Remote Sessions
 
